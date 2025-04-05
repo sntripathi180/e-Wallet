@@ -1,4 +1,4 @@
-# Paytm Wallet Clone 💰
+# e-Wallet 💰
 
 A **full-stack digital wallet system** built using the **MERN stack**, featuring **real-time money transfers** using MongoDB transactions and **JWT authentication** for secure access.
 
