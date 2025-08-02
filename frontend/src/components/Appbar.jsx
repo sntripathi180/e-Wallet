@@ -22,8 +22,8 @@ const handelLogout =()=>{
 }
 
     return <div className="shadow h-14 flex justify-between">
-        <div className="flex flex-col justify-center h-full ml-4">
-            PayTM Wallet
+        <div className="flex flex-col justify-center h-full ml-4 font-red-500 border-2 border-amber-200 rounded-xl p-1 bg-amber-100">
+            e-Wallet
 
         </div>
         <div className="flex">
